@@ -9,14 +9,12 @@ Learning focus:
 - REST APIs with Express
 - MongoDB + Mongoose integration
 - Authentication with JWT
-- Input validation and middleware-based error handling
 
 Tech:
 - Node.js
 - Express 5
 - MongoDB
 - JWT
-- Zod
 
 Run:
 ```bash
